@@ -103,12 +103,15 @@ export const Contact = () => {
         <ul className={styles.links}>
           <li className={styles.link}>
             <a href="https://www.linkedin.com/in/vaibhav-mani-tripathi-bb201124b/">
-              <img src="/assets/contact/linkedinIcon.png" alt="LinkedIn icon" />
+              <img
+                src="/src/assets/contact/linkedinIcon.png"
+                alt="LinkedIn icon"
+              />
             </a>
           </li>
           <li className={styles.link}>
             <a href="https://github.com/Vaibhav091102">
-              <img src="/assets/contact/githubIcon.png" alt="Github icon" />
+              <img src="/src/assets/contact/githubIcon.png" alt="Github icon" />
             </a>
           </li>
         </ul>
