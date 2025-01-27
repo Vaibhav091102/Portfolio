@@ -23,24 +23,24 @@
   font-weight: 400;
   letter-spacing: 2px;
 }
-.text1 {
-  margin: 15px 0;
-  align-items: center;
-  justify-content: center;
-}
 
 .form {
   margin: 10px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+
   align-items: center;
   gap: 0.1rem;
 }
 
+.text1 {
+  margin: 15px 0;
+  justify-content: center;
+  align-items: center;
+}
 input,
 textarea {
-  width: 400px;
+  width: 380px;
   margin: 2px;
   padding: 0.75rem;
   border: 1px solid #ccc;
@@ -49,13 +49,14 @@ textarea {
 }
 
 textarea {
-  height: 70px;
+  border-radius: 30px;
+  height: 50px;
 }
 
 .button {
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 400px;
+  width: 150px;
   padding: 0.75rem;
   border: none;
   border-radius: 50px;
@@ -64,7 +65,12 @@ textarea {
   cursor: pointer;
 }
 .button:hover {
+  background: #3064f3;
+  transform: scale(1.05);
+}
+.button:active {
   background: #0044ff;
+  transform: scale(1.05);
 }
 
 .links {

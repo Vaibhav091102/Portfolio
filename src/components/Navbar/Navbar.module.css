@@ -21,6 +21,7 @@
 }
 .title.active {
   color: aqua;
+  transform: scale(1.05);
 }
 .menuBtn {
   display: none;
