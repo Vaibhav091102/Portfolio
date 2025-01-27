@@ -9,6 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+  margin-bottom: 30px;
 }
 
 .content {
@@ -41,16 +42,16 @@
 
 .contactBtn {
   text-decoration: none;
-  background-color: var(--color-primary);
+  background-color: rgb(8, 172, 163);
   color: var(--color-text);
   border-radius: 100px;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 600;
-  padding: 17px 26px;
+  padding: 10px 20px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 .contactBtn:hover {
-  background: rgb(41, 41, 128);
+  background: rgb(2, 184, 230);
 }
 .heroImg {
   width: 50%;
@@ -97,7 +98,7 @@
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: rgba(34, 111, 173, 0.7);
   filter: blur(100px);
   z-index: 0;
 }

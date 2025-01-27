@@ -13,9 +13,13 @@ export const Hero = () => {
             I am a front-end developer with 6 months of experience using
             JavaScript and React. Reach out if you did like to learn more!
           </p>
-          <NavLink to="contact" className={styles.contactBtn}>
-            Contact Me
-          </NavLink>
+          <a
+            href="assets/skills/VaibhavManiTripathiResume (1).pdf"
+            className={styles.contactBtn}
+            download
+          >
+            Downlode CV
+          </a>
         </div>
         <img
           src="/assets/hero/Vaibhav01.png"
