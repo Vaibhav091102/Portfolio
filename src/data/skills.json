@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "/assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "/assets/skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "/assets/skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "/assets/skills/react.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "/assets/skills/mysql.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "/assets/skills/figma.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "/assets/skills/java.png"
+  }
+]
