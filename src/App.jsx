@@ -7,7 +7,7 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Projects } from "./components/Projects/Projects";
 
-function App() {
+export default function App() {
   return (
     <div className={styles.App}>
       <BrowserRouter>
@@ -22,5 +22,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
