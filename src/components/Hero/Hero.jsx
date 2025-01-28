@@ -13,7 +13,7 @@ export const Hero = () => {
             JavaScript and React. Reach out if you did like to learn more!
           </p>
           <a
-            href="/assets/skills/VaibhavManiTripathiResume (1).pdf"
+            href="/assets/skills/VaibhavManiTripathiResume.pdf"
             className={styles.contactBtn}
             download
           >
@@ -22,7 +22,7 @@ export const Hero = () => {
         </div>
         <img
           src="/assets/hero/Vaibhav01.png"
-          alt="Hero image of me"
+          alt="Vaibhav"
           className={styles.heroImg}
         />
         <div className={styles.topBlur} />
