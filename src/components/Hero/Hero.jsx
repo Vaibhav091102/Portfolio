@@ -1,4 +1,3 @@
-import { NavLink } from "react-router-dom";
 import { Navbar } from "../Navbar/Navbar";
 import styles from "./Hero.module.css";
 
@@ -14,7 +13,7 @@ export const Hero = () => {
             JavaScript and React. Reach out if you did like to learn more!
           </p>
           <a
-            href="/src/assets/skills/VaibhavManiTripathiResume (1).pdf"
+            href="/assets/skills/VaibhavManiTripathiResume (1).pdf"
             className={styles.contactBtn}
             download
           >
@@ -22,7 +21,7 @@ export const Hero = () => {
           </a>
         </div>
         <img
-          src="/src/assets/hero/Vaibhav01.png"
+          src="/assets/hero/Vaibhav01.png"
           alt="Hero image of me"
           className={styles.heroImg}
         />

@@ -1,7 +1,7 @@
 [
   {
     "title": "E Commerce",
-    "imageSrc": "/src/assets/projects/E commerce.jpg",
+    "imageSrc": "/assets/projects/E commerce.jpg",
     "description": "This e-commerce platform allows users to browse, purchase, and manage products online.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://e-commerce-byvaibhav.netlify.app/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Travel list",
-    "imageSrc": "/src/assets/projects/to do.jpg",
+    "imageSrc": "/assets/projects/to do.jpg",
     "description": " A user-friendly app designed to organize and manage travel packing lists",
     "skills": ["React", "Netlify"],
     "demo": "https://travel-list-byvaibhav.netlify.app/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Quiz Web-page",
-    "imageSrc": "/src/assets/projects/quiz.jpg",
+    "imageSrc": "/assets/projects/quiz.jpg",
     "description": "An interactive web page that allows users to participate in engaging quizzes.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://quizapp-websitebyvaibhav.netlify.app/",
