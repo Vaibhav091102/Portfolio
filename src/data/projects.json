@@ -11,7 +11,7 @@
     "title": "Travel list",
     "imageSrc": "/assets/projects/to do.jpg",
     "description": " A user-friendly app designed to organize and manage travel packing lists",
-    "skills": ["React", "Netlify"],
+    "skills": ["CSS", "React", "Netlify"],
     "demo": "https://travel-list-byvaibhav.netlify.app/",
     "source": "https://github.com/Vaibhav091102/travel-list"
   },
@@ -19,8 +19,8 @@
     "title": "Quiz Web-page",
     "imageSrc": "/assets/projects/quiz.jpg",
     "description": "An interactive web page that allows users to participate in engaging quizzes.",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://quizapp-websitebyvaibhav.netlify.app/",
-    "source": "https://github.com/Vaibhav091102/Quiz-App"
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "demo": "https://quiz-contest-inreact.netlify.app/",
+    "source": "https://github.com/Vaibhav091102/react-quiz"
   }
 ]
