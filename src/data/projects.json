@@ -11,7 +11,7 @@
     "title": "Travel list",
     "imageSrc": "/assets/projects/to do.jpg",
     "description": " A user-friendly app designed to organize and manage travel packing lists",
-    "skills": ["CSS", "React", "Netlify"],
+    "skills": ["CSS", "React"],
     "demo": "https://travel-list-byvaibhav.netlify.app/",
     "source": "https://github.com/Vaibhav091102/travel-list"
   },
